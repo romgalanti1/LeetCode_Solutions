@@ -13,20 +13,6 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 - **Focus**: Data Structures, Dynamic Programming, Graph Algorithms, and Optimization.
 
 ---
-
-## 📂 Repository Structure
-
-The problems are organized into topics and directories:
-
-```text
-├── Arrays_and_Hashing/
-├── Two_Pointers/
-├── Sliding_Window/
-├── Binary_Search/
-├── Trees_and_Graphs/
-├── Dynamic_Programming/
-└── Heap_Priority_Queue/
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
