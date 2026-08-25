@@ -31,6 +31,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 ## String
@@ -46,4 +47,12 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
