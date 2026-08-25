@@ -37,4 +37,8 @@ The problems are organized into topics and directories:
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
