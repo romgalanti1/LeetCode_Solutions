@@ -26,3 +26,15 @@ The problems are organized into topics and directories:
 ├── Trees_and_Graphs/
 ├── Dynamic_Programming/
 └── Heap_Priority_Queue/
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
