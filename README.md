@@ -26,6 +26,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -37,6 +38,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Two Pointers
@@ -59,5 +61,6 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->
