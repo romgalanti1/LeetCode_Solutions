@@ -19,6 +19,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -46,6 +47,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
