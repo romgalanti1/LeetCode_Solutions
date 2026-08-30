@@ -22,6 +22,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0026-remove-duplicates-from-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -75,6 +76,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Greedy
 |  |
 | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
 |  |
