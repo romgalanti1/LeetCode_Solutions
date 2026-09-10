@@ -22,7 +22,7 @@ class Solution(object):
         res=0
         curr=root.left
         while stack or curr:
-            while curr:
+            while curr :
                 stack.append(curr)
                 curr=curr.left
             curr=stack.pop()
