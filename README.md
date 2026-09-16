@@ -23,6 +23,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -93,6 +94,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
