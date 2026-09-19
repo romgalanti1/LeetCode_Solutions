@@ -80,6 +80,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0206-reverse-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -183,6 +185,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
