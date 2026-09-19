@@ -23,6 +23,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0605-can-place-flowers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
@@ -112,6 +113,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
