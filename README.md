@@ -66,6 +66,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -80,6 +81,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
