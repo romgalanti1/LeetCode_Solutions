@@ -76,6 +76,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -251,6 +252,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -291,4 +293,8 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
