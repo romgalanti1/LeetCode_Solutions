@@ -28,6 +28,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
@@ -176,6 +177,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
@@ -186,6 +188,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -193,6 +196,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -221,6 +225,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
