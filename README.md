@@ -22,6 +22,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0015-3sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -94,6 +95,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0015-3sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -155,6 +157,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -253,6 +256,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -297,4 +301,8 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
