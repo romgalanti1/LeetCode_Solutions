@@ -35,6 +35,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -291,6 +292,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0374-guess-number-higher-or-lower](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
