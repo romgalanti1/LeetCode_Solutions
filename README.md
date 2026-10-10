@@ -28,6 +28,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -55,6 +56,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0001-two-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -178,6 +180,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
