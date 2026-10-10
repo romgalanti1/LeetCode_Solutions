@@ -186,6 +186,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
+| [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
@@ -200,6 +201,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -242,6 +244,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -341,6 +344,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0133-clone-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
+| [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 ## Topological Sort
 |  |
 | ------- |
