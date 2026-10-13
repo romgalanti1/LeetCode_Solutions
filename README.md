@@ -29,6 +29,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
@@ -89,6 +91,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
@@ -175,6 +178,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
@@ -183,6 +187,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
@@ -356,4 +361,12 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
