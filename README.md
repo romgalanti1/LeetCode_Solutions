@@ -30,6 +30,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -331,6 +332,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
