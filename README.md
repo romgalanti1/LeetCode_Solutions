@@ -83,6 +83,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -193,6 +194,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -409,4 +411,8 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
