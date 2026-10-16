@@ -40,6 +40,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -195,6 +196,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
