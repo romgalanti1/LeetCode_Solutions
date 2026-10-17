@@ -42,6 +42,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
@@ -209,6 +210,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -366,6 +368,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 ## Design
 |  |
 | ------- |
@@ -430,6 +433,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -438,4 +442,5 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
