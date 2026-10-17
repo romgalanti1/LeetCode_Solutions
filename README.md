@@ -50,6 +50,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
+| [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
@@ -214,6 +215,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
@@ -434,6 +436,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -443,4 +446,5 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
