@@ -10,15 +10,12 @@ class Solution(object):
 
         target = S / 2
         n = len(nums)
-        dp = [[False] * (target + 1) for _ in range(n)] # dp[i][j] = True <-> can partition first i elements to target j
-        dp[0][0] = True
+        dp = [False] * (target + 1)
+        dp[0] = True
 
         for i in range(1, n):
             num = nums[i]
-            for j in range(target + 1):
-                if j < num:
-                    dp[i][j] = dp[i-1][j]
-                else:
-                    dp[i][j] = dp[i-1][j - num] or dp[i-1][j]
+            for j in range(target,num - 1,-1):
+                    dp[j] = dp[j - num] or dp[j]
         
-        return dp[-1][-1]
+        return dp[-1]
