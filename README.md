@@ -24,6 +24,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0026-remove-duplicates-from-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
@@ -373,6 +374,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
