@@ -342,6 +342,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
@@ -385,6 +386,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 ## Doubly-Linked List
 |  |
