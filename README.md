@@ -114,6 +114,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
@@ -255,6 +256,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0226-invert-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -280,6 +282,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -301,6 +304,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -314,6 +318,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -388,6 +393,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
