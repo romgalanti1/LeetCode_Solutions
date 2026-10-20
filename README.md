@@ -241,6 +241,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Bit Manipulation
 |  |
@@ -262,6 +263,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -312,6 +314,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
@@ -422,6 +425,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
