@@ -52,6 +52,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
+| [0849-maximize-distance-to-closest-person](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
