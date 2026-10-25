@@ -54,6 +54,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
 | [0849-maximize-distance-to-closest-person](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0849-maximize-distance-to-closest-person) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -172,6 +173,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -208,6 +210,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0605-can-place-flowers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -364,6 +367,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0215-kth-largest-element-in-an-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 ## Stack
 |  |
 | ------- |
