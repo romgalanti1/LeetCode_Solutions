@@ -4,19 +4,23 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
+        # two pointers, keep track of max height, if height goes lower thats how much rain water in that
+        # index can be trapped
+        
         n = len(height)
         l = 0
         r = n - 1
         maxl = height[l]
         maxr = height[r]
-        total_rain = 0
+        trapped_rain = 0
+        
         while l < r:
             if maxl < maxr:
-                total_rain += max(0,maxl - height[l])
                 l += 1
+                trapped_rain += max(0,maxl - height[l])
                 maxl = max(maxl,height[l])
             else:
-                total_rain += max(0,maxr - height[r])
                 r -= 1
+                trapped_rain += max(0,maxr - height[r])
                 maxr = max(maxr,height[r])
-        return total_rain
+        return trapped_rain
