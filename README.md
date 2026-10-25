@@ -131,6 +131,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
+| [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
@@ -155,6 +156,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
+| [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -370,11 +372,13 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 ## DP on Trees
 |  |
