@@ -9,18 +9,22 @@ class Solution(object):
         :type lists: List[Optional[ListNode]]
         :rtype: Optional[ListNode]
         """
-        pq = []
-        for idx , node in enumerate(lists):
-            if node:
-                pq.append((node.val,idx,node))
-        heapq.heapify(pq)
         dummy = ListNode()
-        temp = dummy
-        while pq:
-            val,idx,node = heapq.heappop(pq)
-            temp.next = node
-            temp = temp.next
-            node = node.next
+        heap = []
+        curr = dummy
+        
+        for head in lists: #build heap of size k
+            if head:
+                heapq.heappush(heap,(head.val,head))
+        
+        while heap and curr:
+            val,node = heapq.heappop(heap)
+            curr.next = node
             if node:
-                heapq.heappush(pq,(node.val,idx,node))
+                node = node.next
+                if node:
+                    heapq.heappush(heap,(node.val,node))
+            curr = curr.next
+            
+            
         return dummy.next
