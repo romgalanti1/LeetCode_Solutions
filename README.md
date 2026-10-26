@@ -81,6 +81,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
@@ -184,6 +185,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
