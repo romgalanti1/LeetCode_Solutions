@@ -335,6 +335,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0543-diameter-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -360,6 +361,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0543-diameter-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -379,6 +381,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0543-diameter-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
+| [0951-flip-equivalent-binary-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0951-flip-equivalent-binary-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
