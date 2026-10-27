@@ -135,6 +135,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
@@ -203,6 +204,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0021-merge-two-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
@@ -395,6 +397,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
