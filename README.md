@@ -44,6 +44,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
@@ -246,6 +247,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0198-house-robber](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0377-combination-sum-iv](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
@@ -261,6 +263,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1137-n-th-tribonacci-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 ## Union-Find
 |  |
@@ -291,6 +294,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -301,6 +305,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -341,6 +346,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -467,6 +473,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0210-course-schedule-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -474,11 +481,13 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0210-course-schedule-ii) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
 | ------- |
