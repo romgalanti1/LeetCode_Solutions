@@ -139,6 +139,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
 | [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
@@ -357,6 +358,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -487,6 +489,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
+| [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
@@ -596,4 +599,16 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
+## Eulerian Path
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
+## Eulerian Graph
+|  |
+| ------- |
+| [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 <!---LeetCode Topics End-->
