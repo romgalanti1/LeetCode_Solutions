@@ -202,6 +202,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
@@ -215,6 +216,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0002-add-two-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
