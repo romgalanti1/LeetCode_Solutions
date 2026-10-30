@@ -56,6 +56,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
+| [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [0849-maximize-distance-to-closest-person](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0849-maximize-distance-to-closest-person) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -95,6 +96,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0359-logger-rate-limiter](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0359-logger-rate-limiter) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -146,6 +148,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
+| [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -235,6 +238,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
+| [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
