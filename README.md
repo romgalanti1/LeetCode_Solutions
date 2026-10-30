@@ -39,6 +39,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0238-product-of-array-except-self](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
@@ -319,6 +320,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3903-smallest-stable-index-i) |
