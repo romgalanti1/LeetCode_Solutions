@@ -52,6 +52,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 | [0605-can-place-flowers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -323,6 +324,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -334,6 +336,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
@@ -433,6 +436,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0023-merge-k-sorted-lists](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
+| [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
