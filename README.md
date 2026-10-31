@@ -340,6 +340,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -360,6 +361,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -387,6 +389,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -456,6 +459,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0004-median-of-two-sorted-arrays](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0098-validate-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
