@@ -84,6 +84,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0012-integer-to-roman](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0133-clone-graph) |
@@ -135,6 +136,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0072-edit-distance](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -307,6 +309,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0102-binary-tree-level-order-traversal](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -486,6 +489,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0489-robot-room-cleaner](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0489-robot-room-cleaner) |
 | [0494-target-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0494-target-sum) |
 ## Design
@@ -623,6 +627,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Bidirectional Search
 |  |
 | ------- |
+| [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0127-word-ladder) |
 ## Shortest Path
 |  |
