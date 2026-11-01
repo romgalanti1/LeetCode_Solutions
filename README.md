@@ -44,6 +44,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -144,6 +145,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0269-alien-dictionary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0269-alien-dictionary) |
+| [0271-encode-and-decode-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -505,6 +507,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0271-encode-and-decode-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0359-logger-rate-limiter](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0359-logger-rate-limiter) |
 ## Doubly-Linked List
