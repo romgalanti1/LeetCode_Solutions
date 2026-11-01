@@ -27,6 +27,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0035-search-insert-position](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
@@ -332,6 +333,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
@@ -454,6 +456,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
