@@ -255,6 +255,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1291-sequential-digits) |
 | [3483-unique-3-digit-even-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
