@@ -68,6 +68,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0973-k-closest-points-to-origin](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1672-richest-customer-wealth](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -341,6 +342,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [1672-richest-customer-wealth](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Prefix Sum
 |  |
