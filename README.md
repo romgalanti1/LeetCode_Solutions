@@ -505,6 +505,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0450-delete-node-in-a-bst](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -512,6 +513,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0489-robot-room-cleaner](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0489-robot-room-cleaner) |
 ## Backtracking
