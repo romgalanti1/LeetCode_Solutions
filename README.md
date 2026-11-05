@@ -100,6 +100,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0359-logger-rate-limiter](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0359-logger-rate-limiter) |
+| [0383-ransom-note](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
@@ -149,6 +150,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0271-encode-and-decode-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
@@ -250,6 +252,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
