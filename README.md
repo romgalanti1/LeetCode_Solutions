@@ -88,6 +88,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0127-word-ladder) |
@@ -137,6 +138,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0008-string-to-integer-atoi](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
@@ -512,6 +514,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0489-robot-room-cleaner](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0489-robot-room-cleaner) |
