@@ -111,6 +111,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0981-time-based-key-value-store](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0981-time-based-key-value-store) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -171,6 +172,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0937-reorder-data-in-log-files](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0940-distinct-subsequences-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [0981-time-based-key-value-store](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0981-time-based-key-value-store) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1768-merge-strings-alternately) |
@@ -515,6 +517,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0700-search-in-a-binary-search-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0704-binary-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0981-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
@@ -539,6 +542,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0295-find-median-from-data-stream](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0359-logger-rate-limiter](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0359-logger-rate-limiter) |
+| [0981-time-based-key-value-store](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0981-time-based-key-value-store) |
 ## Doubly-Linked List
 |  |
 | ------- |
