@@ -25,6 +25,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0027-remove-element](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
@@ -532,6 +533,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0489-robot-room-cleaner](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0489-robot-room-cleaner) |
