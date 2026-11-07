@@ -111,6 +111,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0383-ransom-note](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -168,6 +169,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0394-decode-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0409-longest-palindrome](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
 | [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
@@ -253,6 +255,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
