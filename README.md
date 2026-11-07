@@ -31,6 +31,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
