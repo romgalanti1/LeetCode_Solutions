@@ -130,6 +130,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0012-integer-to-roman](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -152,6 +153,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0115-distinct-subsequences) |
@@ -332,6 +334,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0222-count-complete-tree-nodes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -504,6 +507,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1929-concatenation-of-array) |
