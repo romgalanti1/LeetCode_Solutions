@@ -74,6 +74,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0973-k-closest-points-to-origin](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1672-richest-customer-wealth](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -226,6 +227,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0937-reorder-data-in-log-files](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0937-reorder-data-in-log-files) |
 | [0973-k-closest-points-to-origin](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
@@ -313,6 +315,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [1049-last-stone-weight-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
 |  |
@@ -542,6 +545,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0704-binary-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0981-time-based-key-value-store) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Interactive
 |  |
 | ------- |
