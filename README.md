@@ -33,6 +33,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0055-jump-game](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0057-insert-interval) |
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0078-subsets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -338,6 +339,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -558,6 +560,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0017-letter-combinations-of-a-phone-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0126-word-ladder-ii) |
 | [0489-robot-room-cleaner](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0489-robot-room-cleaner) |
