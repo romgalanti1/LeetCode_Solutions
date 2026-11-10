@@ -46,6 +46,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0141-linked-list-cycle](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0217-contains-duplicate](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0359-logger-rate-limiter](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0359-logger-rate-limiter) |
@@ -224,6 +226,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0049-group-anagrams](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
