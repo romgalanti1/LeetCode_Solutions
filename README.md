@@ -62,6 +62,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0643-maximum-average-subarray-i](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
 | [0704-binary-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0704-binary-search) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -114,6 +115,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0819-most-common-word](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0819-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0904-fruit-into-baskets) |
@@ -175,6 +177,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0409-longest-palindrome](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0809-expressive-words](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0809-expressive-words) |
@@ -224,6 +227,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0253-meeting-rooms-ii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0937-reorder-data-in-log-files](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0937-reorder-data-in-log-files) |
@@ -332,6 +336,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0200-number-of-islands](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0261-graph-valid-tree) |
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -367,6 +372,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0542-01-matrix](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0542-01-matrix) |
 | [0675-cut-off-trees-for-golf-event](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0675-cut-off-trees-for-golf-event) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -442,6 +448,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0399-evaluate-division](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0721-accounts-merge](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0721-accounts-merge) |
 | [0753-cracking-the-safe](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0753-cracking-the-safe) |
 | [0872-leaf-similar-trees](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0872-leaf-similar-trees) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
