@@ -35,6 +35,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | [0064-minimum-path-sum](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0079-word-search) |
+| [0084-largest-rectangle-in-histogram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -507,6 +508,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0020-valid-parentheses](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0155-min-stack) |
@@ -596,6 +598,7 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -749,4 +752,8 @@ I regularly update this repository to maintain algorithmic sharp skills, optimiz
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/romgalanti1/LeetCode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
